@@ -10,7 +10,7 @@ A Voice Recorder with GUI using Python.
 ![800 TP Mechanical](https://user-images.githubusercontent.com/117800717/227724851-fb307851-0200-453d-a795-c0b542225dec.png)
 
 ![SCREETSHOT](https://user-images.githubusercontent.com/117800717/227725114-b2486384-09b3-49e5-936d-1ee75461f62c.PNG)
-# SUPPORTED FORMAT
+# SUPPORTED AUDIO FORMAT
 WAVEFORM AUDIO FILE FORMAT(.WAV) ONLY
 # FEATURES
 * DARK MODE SUPPORT
